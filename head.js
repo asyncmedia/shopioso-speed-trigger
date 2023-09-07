@@ -1,5 +1,5 @@
 if (
-    document.currentScript.src.includes("shopoptimizer") &&
+    document.currentScript.src.includes("asyncmedia") &&
     (window.location.hostname.includes("jiminys.com") ||
       window.location.hostname.includes("jiminysfood.myshopify.com"))
   ) {
